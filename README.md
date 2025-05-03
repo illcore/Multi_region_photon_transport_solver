@@ -1,2 +1,3 @@
-# Multi_region_photon_transport_solver
-Multi_region_photon_transport_solver
+# Multi-region photon transport solver
+- Each region is divided into several sub-cells;
+- Gauss-Legendre quadrature for angular integration.
